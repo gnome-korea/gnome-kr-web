@@ -4,7 +4,6 @@
 여러분이 그놈을 기반으로한 우분투 리눅스를 설치할 때, 한글을 선택하면 모든 메뉴가 한글로 나타나는데,
 이 프로젝트의 결과물입니다. 현재 프로젝트 멤버는 다음 같습니다.
 
-<<<<<<< HEAD
 * 감독자: [류창우(Changwoo Ryu)](https://l10n.gnome.org/users/cwryu/)
 * 검토자: [조성호(Seong-ho Cho)](https://l10n.gnome.org/users/darkcircle/)
 * 번역
@@ -14,17 +13,6 @@
   * [문관경(Gwan-gyeong Mun)](https://l10n.gnome.org/users/elongbug/)
   * [신현수(Hyunsu Shin)](https://l10n.gnome.org/users/sephion/)
   * [성대현(DaeHyun Sung)](https://l10n.gnome.org/users/studioego/)
-=======
-* 감독자: 류창우[Changwoo Ryu](https://l10n.gnome.org/users/cwryu/)
-* 검토자: 조성호[Seong-ho Cho](https://l10n.gnome.org/users/darkcircle/)
-* 번역
-  * 맹진영[Jinyeong Maeng](https://l10n.gnome.org/users/adenosie/)
-  * [AlexKodala](https://l10n.gnome.org/users/alexkoala/)
-  * 엄지용[Jeeyong Um](https://l10n.gnome.org/users/conr2d/)
-  * 문관경[Gwan-gyeong Mun](https://l10n.gnome.org/users/elongbug/)
-  * 신현수[Hyunsu Shin](https://l10n.gnome.org/users/sephion/)
-  * 성대현[DaeHyun Sung](https://l10n.gnome.org/users/studioego/)
->>>>>>> f7f708054d82ff7086fc513180ae6ed35b41a234
 
 아직도 한글화할 부분이 많습니다. 참여를 원하는 분은 아래 프로젝트 페이지를 방문하시기 바랍니다.
 * https://l10n.gnome.org/teams/ko/

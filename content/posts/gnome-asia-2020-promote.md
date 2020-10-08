@@ -10,6 +10,7 @@ draft: false
 
 ## 참고
 [GNOME ASIA 2020 Call for papers is now Open!](https://discourse.gnome.org/t/gnome-asia-2020-call-for-papers-is-now-open/4350)
+
 [GNOME.Asia Summit 2020 홈페이지](https://events.gnome.org/event/24/overview)
 
 ## 그놈 아시아 2020 발표 제안이 열렸습니다
@@ -23,7 +24,7 @@ draft: false
 
 그놈 아시아 서밋(GNOME.Asia Summit)은 아시아에서 개최되는 연례 그놈 컨퍼런스입니다. 주로 GNOME 데스크탑에 초점을 맞추지만, 응용소프트웨어와 플랫폼 개발 도구도 다룹니다. 이번 서밋에서는 아시아의 그놈 커뮤니티를 한데 모아, 사용자, 개발자, 재단 리더, 정부 및 기업이 현재 기술과 미래 개발에 대해  논의할 수 있는 포럼을 제공합니다.
 
-** 가능한 주제입니다. 그렇지만 이에 국한되지 않습니다 **
+**가능한 주제는 다음과 같으며,이에 국한되지 않습니다**
 
  * 그놈에 기여하기
  * UI 디자인
@@ -32,7 +33,7 @@ draft: false
  * 마케팅/참여
  * 임베디드 시스템 또는 개방형 하드웨어에서 그놈 개발
  
- ** 리눅스 및 자유 오픈소스 소프트웨어에 기여하기 **
+ **리눅스 및 자유 오픈소스 소프트웨어에 기여하기**
 
  * 리눅스 커널 및 개발
  * 오픈소스 운영 체제의 개발과 홍보
@@ -51,7 +52,7 @@ draft: false
 그리고, 발표 제안을 다음의 링크 [https://events.gnome.org/event/24/abstracts/](https://events.gnome.org/event/24/abstracts/) 로 제출하시기 바랍니다.
 발표심사팀에서 제출된 제안과 가능한 일정을 기준으로 발표 제안을 평가합니다. 
 
-** 발표 제안 제출기한: 2020년 10월 25일 **
+**발표 제안 제출기한: 2020년 10월 25일**
 
 추가. 2020년 10월 9일에 GNOME.Asia 운영진 측에게 10월 25일까지 연장되었다고 합니다. 정확한 내용은 다음의 링크를 참조하기 바랍니다
 [https://www.facebook.com/groups/gnome.asia/permalink/10158709107164183](https://www.facebook.com/groups/gnome.asia/permalink/10158709107164183)

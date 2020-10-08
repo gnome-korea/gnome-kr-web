@@ -51,6 +51,10 @@ draft: false
 그리고, 발표 제안을 다음의 링크 [https://events.gnome.org/event/24/abstracts/](https://events.gnome.org/event/24/abstracts/) 로 제출하시기 바랍니다.
 발표심사팀에서 제출된 제안과 가능한 일정을 기준으로 발표 제안을 평가합니다. 
 
-** 발표 제안 제출기한: 2020년 10월 18일 **
+** 발표 제안 제출기한: 2020년 10월 25일 **
+
+추가. 2020년 10월 9일에 GNOME.Asia 운영진 측에게 10월 25일까지 연장되었다고 합니다. 정확한 내용은 다음의 링크를 참조하기 바랍니다
+[https://www.facebook.com/groups/gnome.asia/permalink/10158709107164183](https://www.facebook.com/groups/gnome.asia/permalink/10158709107164183)
+
 
 만약에, 온라인으로 본인의 자유오픈소스 역량을 발표하실 분은 도전해주시기 바랍니다!

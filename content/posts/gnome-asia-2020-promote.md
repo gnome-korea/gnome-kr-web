@@ -1,6 +1,6 @@
 ---
 title: "그놈 아시아 서밋 2020 (온라인) 개최 "
-date: 2020-10-09T22:50:00+09:00
+date: 2020-10-09T02:20:00+09:00
 author: dhsung
 tags: ["news", "conference", "summit" , "gnomeasia", "그놈아시아", "서밋", "컨퍼런스"]
 draft: false
